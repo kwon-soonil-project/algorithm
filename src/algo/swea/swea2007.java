@@ -1,4 +1,4 @@
-package practice;
+package algo.swea;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,7 +1,8 @@
+package algo.swea;
 import java.util.Scanner;
 import java.io.FileInputStream;
 
-class Solution
+public class swea1284
 {
 	public static void main(String args[]) throws Exception
 	{

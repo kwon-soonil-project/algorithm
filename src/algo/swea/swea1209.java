@@ -1,4 +1,4 @@
-package algo;
+package algo.swea;
 
 import java.util.Scanner;
 
@@ -7,9 +7,6 @@ public class swea1209 {
 
 		Scanner sc = new Scanner(System.in);
 		int T = 10;
-		/*
-		 * 여러 개의 테스트 케이스가 주어지므로, 각각을 처리합니다.
-		 */
 
 		for (int test_case = 1; test_case <= T; test_case++) {
 			int t = sc.nextInt();
