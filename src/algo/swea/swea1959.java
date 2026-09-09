@@ -1,11 +1,10 @@
-package practice;
+package algo.swea;
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.util.List;
 import java.util.ArrayList;
 
-class Solution
-{
+public class swea1959{
 	public static void main(String args[]) throws Exception
 	{
 		Scanner sc = new Scanner(System.in);
